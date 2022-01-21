@@ -19,7 +19,7 @@ Skills: NodeJs/ REACT / JS / HTML / CSS/VUE
 [<img src='https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg' alt='linkedin' height='120'>](https://www.linkedin.com/in/regiss05/) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/2560px-Unity_Technologies_logo.svg.png' alt='unity' height='40'>](regiss05)  
  <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-
+![I am Full Stack developer (Junior)](https://scontent.fgom1-1.fna.fbcdn.net/v/t39.30808-6/272022158_3094178527508659_3106514453375513739_n.png?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFd6ycS5B12AeHIhWHwrdiRmkwV80ohuiGaTBXzSiG6IQ9tU6oEeQlf_d4KIdLGaeChVSwa5fpqtjRVI_yZe19e&_nc_ohc=1DLWTh0sw2cAX_Vazo9&_nc_zt=23&_nc_ht=scontent.fgom1-1.fna&oh=00_AT-gOVexuSTJll_r8nRdvE6jiDoLSyloLeD5cHbysCnhxw&oe=61EE7003)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=regiss05)  
 
