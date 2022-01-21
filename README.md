@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Regiss
+### Hi there. I'm Regiss 👋,
 #### I am Full Stack developer (Junior)
 I'm Graduated from computer science I've worked on some projects (individual, Public, Community). I have some knowledge of different programming languages 
 
