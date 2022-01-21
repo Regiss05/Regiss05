@@ -2,7 +2,7 @@
 #### I am Full Stack developer (Junior)
 I'm Graduated from computer science I've worked on some projects (individual, Public, Community). I have some knowledge of different programming languages 
 
-![I am Full Stack developer (Junior)](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
+![I am Full Stack developer (Junior)](https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif)
 
 
 
