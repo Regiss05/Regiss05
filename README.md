@@ -21,8 +21,6 @@ Skills: NodeJs/ REACT / JS / HTML / CSS/VUE
 
 ![I am Full Stack developer (Junior)](https://scontent.fgom1-1.fna.fbcdn.net/v/t39.30808-6/272022158_3094178527508659_3106514453375513739_n.png?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFd6ycS5B12AeHIhWHwrdiRmkwV80ohuiGaTBXzSiG6IQ9tU6oEeQlf_d4KIdLGaeChVSwa5fpqtjRVI_yZe19e&_nc_ohc=1DLWTh0sw2cAX_Vazo9&_nc_zt=23&_nc_ht=scontent.fgom1-1.fna&oh=00_AT-gOVexuSTJll_r8nRdvE6jiDoLSyloLeD5cHbysCnhxw&oe=61EE7003)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=regiss05)  
-
 ![GitHub metrics](https://metrics.lecoq.io/regiss05)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=regiss05)  
