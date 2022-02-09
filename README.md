@@ -18,8 +18,6 @@ Skills: NodeJs/ REACT / JS / HTML / CSS/VUE
 
 [<img src='https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg' alt='linkedin' height='120'>](https://www.linkedin.com/in/regiss05/)
 
-![GitHub metrics](https://metrics.lecoq.io/regiss05)  
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=regiss05)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=regiss05)  
