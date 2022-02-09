@@ -18,8 +18,6 @@ Skills: NodeJs/ REACT / JS / HTML / CSS/VUE
 
 [<img src='https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg' alt='linkedin' height='120'>](https://www.linkedin.com/in/regiss05/)
 
-![I am Full Stack developer (Junior)](https://scontent.fgom1-1.fna.fbcdn.net/v/t39.30808-6/272022158_3094178527508659_3106514453375513739_n.png?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFd6ycS5B12AeHIhWHwrdiRmkwV80ohuiGaTBXzSiG6IQ9tU6oEeQlf_d4KIdLGaeChVSwa5fpqtjRVI_yZe19e&_nc_ohc=1DLWTh0sw2cAX_Vazo9&_nc_zt=23&_nc_ht=scontent.fgom1-1.fna&oh=00_AT-gOVexuSTJll_r8nRdvE6jiDoLSyloLeD5cHbysCnhxw&oe=61EE7003)
-
 ![GitHub metrics](https://metrics.lecoq.io/regiss05)  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=regiss05)
