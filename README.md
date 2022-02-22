@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/regiss05) 
+
 ### Hi there. I'm Regiss 👋,
 #### I am Full Stack developer (Junior)
 I'm Graduated from computer science I've worked on some projects (individual, Public, Community). I have some knowledge of different programming languages 
@@ -20,6 +22,4 @@ Skills: NodeJs/ REACT / JS / HTML / CSS/VUE
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=regiss05)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=regiss05)  
-
-![Profile views](https://gpvc.arturio.dev/regiss05)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=regiss05)   
