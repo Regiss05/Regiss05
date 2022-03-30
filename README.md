@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/regiss05) 
 
 ### Hi there. I'm Regiss 👋,
-#### I am Full Stack developer (Junior)
+#### I am Full Stack developer
 I have a bachelor's degree in computer science. I've been involved in a few initiatives (individual, Public, Community). I'm familiar with a variety of programming languages, including Javascript, C#, and other technologies. Open to new opportunities.
 
 ![I am Full Stack developer (Junior)](https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif)
