@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
 ### Hi there. I'm Regiss 👋,
 #### I am Full Stack developer
