@@ -1,5 +1,7 @@
+![](https://img.shields.io/badge/github-repo-blue?logo=github)
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 ![](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/coverage-95%25-orange)
 
 ### Hi there. I'm Regiss 👋,
 #### I am Full Stack developer
